@@ -1,0 +1,2 @@
+Children see throughput for 16 initial writers,Parent sees throughput for 16 initial writers,Min throughput per process,Max throughput per process,Avg throughput per process,Min xfer,Children see throughput for 16 rewriters,Parent sees throughput for 16 rewriters,Min throughput per process,Max throughput per process,Avg throughput per process,Min xfer,
+4427930.75 kB/sec,208592.36 kB/sec,233077.25 kB/sec,356638.94 kB/sec,276745.67 kB/sec,8192.00 kB,4014724.00 kB/sec,213722.94 kB/sec,209857.61 kB/sec,338653.47 kB/sec,250920.25 kB/sec,8192.00 kB,
